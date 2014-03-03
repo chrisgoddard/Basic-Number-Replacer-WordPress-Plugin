@@ -3,7 +3,7 @@ Basic-Number-Replacer-WordPress-Plugin
 
 Basic WordPress plugin for replacing all (or some) phone numbers on a page based on URL parameters.
 
-This plugin uses Advanced Custom Fields (http://www.advancedcustomfields) with the Repeater and Options Page add on (both paid add-ons) for the plugin UI.
+This plugin uses Advanced Custom Fields (http://www.advancedcustomfields.com) with the Repeater and Options Page add on (both paid add-ons) for the plugin UI.
 
 Plugin supports multiple numbers for campaigns based on source (Google, Bing, Twitter, Facebook). Could easily be extended to offer more.
 
